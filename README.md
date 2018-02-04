@@ -1,4 +1,4 @@
-# Genetic-Algorithm-GA---Ship-Routing-
+# Genetic-Algorithm_Ship-Routing
 Genetic algorithm for the Ship Routing Problem using MATLAB
 
 
