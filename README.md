@@ -7,9 +7,9 @@ Genetic algorithm for the Ship Routing Problem using MATLAB
 3) Execute the script GA_1.m
 
 
-This code based on the paper: A
+This code based on the paper: 
 
-Genetic Algorithm for Ship Routing and Scheduling Problem with Time Window, 2012
+A Genetic Algorithm for Ship Routing and Scheduling Problem with Time Window, 2012
 Khaled Al-Hamad, Mohamed Al-Ibrahim, Eiman Al-Enezy
 
 paper link: http://www.scirp.org/journal/PaperInformation.aspx?PaperID=22440
